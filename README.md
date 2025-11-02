@@ -2,10 +2,6 @@
 
 A simple tool that converts any image URL into a permanent link hosted on Cloudflare R2. Perfect for individuals or small projects needing image hosting services.
 
-## 🎉 Who is using this?
-
-- [Next Idea NewTab](https://newtab.nextidea.dev)
-
 ## 📦 Project Structure
 
 ```

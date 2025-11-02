@@ -2,10 +2,6 @@
 
 这是一个简单的工具，可以将任意图片URL转换为托管在 Cloudflare R2 上的永久链接。适合需要图片托管服务的个人或小型项目使用。
 
-## 🎉 谁在使用
-
-- [Next Idea NewTab](https://newtab.nextidea.dev)
-
 ## 📦 项目结构
 
 ```
